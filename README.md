@@ -19,7 +19,7 @@ Your task is divided into four parts.
 
 # Assets
 
-- [Detailed description of the project in ES2027_HU_TP_S09_R1_EN.pdf](https://github.com/skillsit-hu/es2027-s09-hu-r1/blob/main/assets/WS2026%20HU%20TP%20S09%20R1%20EN.pdf)
+- [Detailed description of the project in ES2027_HU_TP_S09_R1_EN.pdf](https://github.com/skillsit-hu/es2027-s09-hu-r1/blob/main/assets/ES2027%20HU%20TP%20S09%20R1%20EN.pdf)
 - [Download files from assets/ directory](https://github.com/skillsit-hu/we2027-s09-hu-r1/tree/main/assets)
 
 # How to submit your work
