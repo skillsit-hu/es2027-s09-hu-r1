@@ -1,3 +1,6 @@
+# Change log
+2026.01.21 19:28 - updated database.json, add a better example
+
 # Introduction
 
 You used to work as a freelance software developer, but now you've applied for a job as a developer at a large software development company. The company's management wants to test your skills, so as part of the recruitment process, they asked you to develop prototype applications for the GreenWind company.
